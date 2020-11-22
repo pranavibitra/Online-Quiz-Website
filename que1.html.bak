@@ -1,0 +1,12 @@
+<link href="quec.css" rel="stylesheet">
+<body >
+<table align=center  border=1 cellpadding=5px>
+<caption><h1>Question Paper</h1></caption>
+<tr> <td> 1.c invented by <br><input type =radio name=a>Denis  <input type =radio name=a>John <input type =radio name=a>Thomas <input type =radio name=a>Fitz </td></tr>
+<tr> <td>2.Choose ur fav<br><input type =radio name=b>Shield<input type =radio name=b>Crisis<input type =radio name=b>Castle<input type =radio name=b>V:The Coming</td></tr>
+<tr> <td>3. Power House of cell<br> <input type =radio name=c>Riboses<input type =radio name=c>Cellouse<input type =radio name=c>Mitocondria<input type =radio name=c>zymese</td></tr>
+<tr> <td>4. 	
+In C, if you pass an array as an argument to a function, what actually gets passed?<br> <input type =radio name=d>Value <input type =radio name=d>First element<input type =radio name=d>Base address<input type =radio name=d>Address of the last element</td></tr>
+<tr> <td> <input type=submit value=continue></td> </tr>
+</table>
+</body>

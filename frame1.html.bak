@@ -1,0 +1,6 @@
+<frameset rows="20%,7%,*,6%">
+<frame src=frame2.html></frame>
+<frame src=frame3.html></frame>
+<frame src=frame4.html></frame>
+<frame src=frame5.html></frame>
+</frameset>

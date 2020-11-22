@@ -1,0 +1,14 @@
+body
+{
+background-image:url("uni.jpg");  
+ 
+ background-size: contain;
+}
+h1
+{
+text-align:center;
+letter-spacing:10px;
+color:Cornsilk     ;
+font-size:80px;
+
+}

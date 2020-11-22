@@ -1,0 +1,24 @@
+body {
+    background-color:Bisque ;
+   
+}
+h1 {
+    color: DarkBlue ;
+	text-align:center;
+	letter-spacing:6px;
+}
+h3
+{
+  color: DarkMagenta ;
+  text-align:center;
+  letter-spacing:5px;
+  }
+  img
+  {
+  width:80px;
+  height:80px;
+  position:absolute;
+  left:250;
+  top:10px;
+  border-radius:50%;
+  }

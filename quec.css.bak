@@ -1,0 +1,15 @@
+body
+{
+ background-color:NavajoWhite  ;
+  
+}
+h1
+{
+text-align:center;
+color:DarkMagenta;
+}
+table
+{
+background-color:PeachPuff ;
+cellpadding:5px;
+}

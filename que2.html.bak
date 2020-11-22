@@ -1,0 +1,13 @@
+<link href="quec.css" rel="stylesheet">
+<body >
+<table align=center  border=1 cellpadding=5px>
+<caption><h1>Question Paper</h1></caption>
+<tr> <td> 6.What are the different types of real data type in C ?<br><input type =radio name=a>float, double<input type =radio name=a>short int, double, long int<input type =radio name=a>float, double, long double <input type =radio name=a>double, long int, float </td></tr>
+<tr> <td>7.If the two strings are identical, then strcmp() function returns<br><input type =radio name=b>-1<input type =radio name=b>1<input type =radio name=b>0<input type =radio name=b>yes</td></tr>
+<tr> <td>8. How will you print \n on the screen?<br> <input type =radio name=c>printf("\n");<input type =radio name=c>echo "\\n";<input type =radio name=c>printf('\n');<input type =radio name=c>printf("\\n");</td></tr>
+<tr> <td>9. 	
+Which of the following function is more appropriate for reading in a multi-word string?<br> <input type =radio name=d>printf(); <input type =radio name=d>scanf();<input type =radio name=d>gets();<input type =radio name=d>puts();</td></tr>
+<tr> <td>10.By default a real number is treated as a<br> <input type =radio name=c>float<input type =radio name=c>double<input type =radio name=c>long double<input type =radio name=c>far double</td></tr>
+<tr> <td> <input type=submit value=continue></td> </tr>
+</table>
+</body>

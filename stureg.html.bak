@@ -1,0 +1,12 @@
+<link href="regc.css" rel="stylesheet">
+<body >
+<table >
+<h1>Student Registration Form</h1>
+<tr><td>Name</td><td><input type=text></td></tr>
+<tr><td>Password</td><td><input type=password></td></tr>
+<tr><td>Branch</td><td><input type=text></td></tr>
+<tr><td>Quallification</td><td><input type=radio name=g>UG<br><input type=radio name=g>PG<br><input type=radio name=g>SSC</td></tr>
+<tr><td>Gender</td><td><select><option>--select--</option><br><option>Male</option><br><option>Female</option></select></td></tr>
+<tr><td>Address</td><td><textarea></textarea></td></tr>
+<tr><td>Phone No</td><td><input type=text></td></tr>
+<tr><td><input type=submit value=submit></td><td><input type=reset></td></tr>

@@ -1,0 +1,26 @@
+h1
+{
+text-align:center;
+letter-spacing:10px;
+color:indigo   ;
+font-size:30px;
+
+}
+p
+{
+text-indent:2cm;
+font-size:20;
+font-style:italic;
+}
+body
+{
+ background-color:NavajoWhite   ;
+  
+}
+img
+{
+position:absolute;
+right:100px;
+width: 200px;
+  height: 200px;
+  }
